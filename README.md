@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Cicek</h1>
-<h3 align="center">A software engineering student passionate about mobile app development</h3>
 
-- 🔭 I’m currently working on **Mobile app Development**
+
+- 🔭 I’m currently working on **Flutter app Development**
 
 - 🌱 I’m currently learning **Flutter and firebase. Looking forward to start on Kotlin**
 
