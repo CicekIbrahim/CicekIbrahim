@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile app Development**
 
-- 🌱 I’m currently learning **Flutter and firebase. Looking forward to start on Kotlin**
+- 🌱 I’m currently learning **Flutter and firebase. Looking forward to start on Swift**
 
 - 📫 How to reach me **cicekibrahim35@icloud.com**
 
