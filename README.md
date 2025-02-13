@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! I'm Ibrahim Cicek, an iOS developer currently immersed in the world of code. As a passionate software engineering student, I balance my time between honing my skills in UIKit and SwiftUI frameworks and pursuing my academic journey. I thrive on the challenges of crafting seamless user experiences and bringing creative ideas to life through the art of coding. Join me on this exciting journey as I explore the ever-evolving landscape of iOS development. 🚀</p>
+<p align="left">Hi there! I'm Ibrahim Cicek, an iOS developer currently immersed in the world of code. As a passionate MSc student, I balance my time between honing my skills in UIKit and SwiftUI frameworks and pursuing my academic journey. I thrive on the challenges of crafting seamless user experiences and bringing creative ideas to life through the art of coding. Join me on this exciting journey as I explore the ever-evolving landscape of iOS development. 🚀</p>
 
 ###
 
